@@ -1,6 +1,6 @@
 # First Git repository 
-This is my first Git Repository
-Author - vishal pathak 
-profession - student 
+This is my first Git Repository <br>
+Author - vishal pathak <br>
+profession - student <br>
 level - intermediate 
 
