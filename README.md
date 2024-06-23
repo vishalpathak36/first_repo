@@ -1,2 +1,6 @@
-# first_repo
-this is my first repo 
+# First Git repository 
+This is my first Git Repository
+Author - vishal pathak 
+profession - student 
+level - intermediate 
+
